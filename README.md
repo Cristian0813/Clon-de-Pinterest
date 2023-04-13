@@ -1,6 +1,6 @@
 <h1 align="center">Clon de pinterest</h1>
 
-<a href="https://cristian0813.github.io/Clon-de-pinterest/"><img src="./assets/Clon_de_pinterest.png" width="auto" align="center">
+<a href="https://github.com/Cristian0813/Clon-de-Pinterest"><img src="./assets/Clon_de_pinterest.png" width="auto" align="center">
 
 
 <h3> HTML, se usa los siguientes elemento como: </h3>
